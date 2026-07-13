@@ -1,0 +1,13 @@
+# Robots.txt for https://jyxu0621.github.io
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /graphql
+
+# Sitemap location
+Sitemap: https://jyxu0621.github.io/sitemap.xml
+
+# Crawl-delay for responsible crawling
+Crawl-delay: 1
